@@ -12,7 +12,7 @@ Fig 1. The trip amount on routes.
 
 
 <center class="half">
-    <img src="https://i.imgur.com/dDiGAVGm.jpg" width="300"><img src="https://i.imgur.com/PL38MwCm.png" width="300">
+    <img src="https://i.imgur.com/dDiGAVGm.jpg" width="300"/><img src="https://i.imgur.com/PL38MwCm.png" width="300"/>
 </center>
 
 Fig 2. Original street view image and the segamentation result
