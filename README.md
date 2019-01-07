@@ -19,7 +19,7 @@ Fig 2. Original street view image and the segamentation result
 
 
 <center>
-    <img src="https://i.imgur.com/kFWUXrum.png">
+    <img src="https://i.imgur.com/kFWUXru.png">
 </center>
 Fig 3. The importance of each feature in the model
 
