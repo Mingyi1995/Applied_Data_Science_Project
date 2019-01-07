@@ -11,7 +11,8 @@ Citi-Bike is popular in New York City, it is healthy and environmental friendly.
 Fig 1. The trip amount on routes.
 
 <figure class="half">
-    <img src="https://i.imgur.com/dDiGAVGm.jpg"><img src="https://i.imgur.com/PL38MwCm.png">
+    <img src="https://i.imgur.com/dDiGAVGm.jpg" width="300">
+    <img src="https://i.imgur.com/PL38MwCm.png" width="300">
 </figure>
 
 Fig 2. Original street view image and the segamentation result
